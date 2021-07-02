@@ -6,11 +6,15 @@ These programms are designed and uploaded by Xinzhu Xu, Kun Zhao, Chaoyang Wu, W
 Operation illustrations:
 
 ①	Scan type: 
+
 X &Y: Scanning lateral PSF 
+
 X &Z: Scanning axial PSF
 
 ②	Offset position of the other axis:
+
 Offset Z position to center PSF when on X &Y scan,
+
 Offset Y position to center PSF when on X &Z scan.
 
 ③	Acquisition rate of APD/PMT
